@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Roundabot.iml" filepath="$PROJECT_DIR$/Roundabot.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roundabot.iml" filepath="$PROJECT_DIR$/roundabot.iml" />
     </modules>
   </component>
 </project>
